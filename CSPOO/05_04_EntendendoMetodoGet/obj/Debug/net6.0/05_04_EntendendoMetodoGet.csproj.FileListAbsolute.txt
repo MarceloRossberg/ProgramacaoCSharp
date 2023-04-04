@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\bin\Debug\net6.0\05_04_EntendendoMetodoGet.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\bin\Debug\net6.0\05_04_EntendendoMetodoGet.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\bin\Debug\net6.0\05_04_EntendendoMetodoGet.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\bin\Debug\net6.0\05_04_EntendendoMetodoGet.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\bin\Debug\net6.0\05_04_EntendendoMetodoGet.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\05_04_EntendendoMetodoGet.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\05_04_EntendendoMetodoGet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\05_04_EntendendoMetodoGet.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\05_04_EntendendoMetodoGet.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\05_04_EntendendoMetodoGet.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\05_04_EntendendoMetodoGet.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\refint\05_04_EntendendoMetodoGet.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\05_04_EntendendoMetodoGet.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\05_04_EntendendoMetodoGet.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_04_EntendendoMetodoGet\obj\Debug\net6.0\ref\05_04_EntendendoMetodoGet.dll

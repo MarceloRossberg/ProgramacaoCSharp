@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\bin\Debug\net6.0\06_05_ClassesAbstratas.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\bin\Debug\net6.0\06_05_ClassesAbstratas.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\bin\Debug\net6.0\06_05_ClassesAbstratas.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\bin\Debug\net6.0\06_05_ClassesAbstratas.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\bin\Debug\net6.0\06_05_ClassesAbstratas.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\06_05_ClassesAbstratas.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\06_05_ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\06_05_ClassesAbstratas.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\06_05_ClassesAbstratas.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\06_05_ClassesAbstratas.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\06_05_ClassesAbstratas.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\refint\06_05_ClassesAbstratas.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\06_05_ClassesAbstratas.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\06_05_ClassesAbstratas.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_05_ClassesAbstratas\obj\Debug\net6.0\ref\06_05_ClassesAbstratas.dll

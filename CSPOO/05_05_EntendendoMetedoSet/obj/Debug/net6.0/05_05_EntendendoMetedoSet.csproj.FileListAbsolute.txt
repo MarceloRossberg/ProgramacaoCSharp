@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\bin\Debug\net6.0\05_05_EntendendoMetedoSet.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\bin\Debug\net6.0\05_05_EntendendoMetedoSet.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\bin\Debug\net6.0\05_05_EntendendoMetedoSet.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\bin\Debug\net6.0\05_05_EntendendoMetedoSet.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\bin\Debug\net6.0\05_05_EntendendoMetedoSet.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\05_05_EntendendoMetedoSet.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\05_05_EntendendoMetedoSet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\05_05_EntendendoMetedoSet.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\05_05_EntendendoMetedoSet.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\05_05_EntendendoMetedoSet.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\05_05_EntendendoMetedoSet.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\refint\05_05_EntendendoMetedoSet.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\05_05_EntendendoMetedoSet.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\05_05_EntendendoMetedoSet.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_05_EntendendoMetedoSet\obj\Debug\net6.0\ref\05_05_EntendendoMetedoSet.dll

@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\bin\Debug\net6.0\04_02_MetodosComParametros.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\bin\Debug\net6.0\04_02_MetodosComParametros.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\bin\Debug\net6.0\04_02_MetodosComParametros.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\bin\Debug\net6.0\04_02_MetodosComParametros.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\bin\Debug\net6.0\04_02_MetodosComParametros.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\04_02_MetodosComParametros.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\04_02_MetodosComParametros.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\04_02_MetodosComParametros.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\04_02_MetodosComParametros.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\04_02_MetodosComParametros.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\04_02_MetodosComParametros.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\refint\04_02_MetodosComParametros.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\04_02_MetodosComParametros.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\04_02_MetodosComParametros.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_02_MetodosComParametros\obj\Debug\net6.0\ref\04_02_MetodosComParametros.dll

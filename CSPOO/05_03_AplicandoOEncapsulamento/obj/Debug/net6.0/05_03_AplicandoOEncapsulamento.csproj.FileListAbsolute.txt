@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\05_03_AplicandoOEncapsulamento.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\05_03_AplicandoOEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\05_03_AplicandoOEncapsulamento.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\05_03_AplicandoOEncapsulamento.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\05_03_AplicandoOEncapsulamento.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\bin\Debug\net6.0\05_03_AplicandoOEncapsulamento.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\bin\Debug\net6.0\05_03_AplicandoOEncapsulamento.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\bin\Debug\net6.0\05_03_AplicandoOEncapsulamento.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\bin\Debug\net6.0\05_03_AplicandoOEncapsulamento.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\bin\Debug\net6.0\05_03_AplicandoOEncapsulamento.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\05_03_AplicandoOEncapsulamento.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\refint\05_03_AplicandoOEncapsulamento.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\05_03_AplicandoOEncapsulamento.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\05_03_AplicandoOEncapsulamento.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\05_03_AplicandoOEncapsulamento\obj\Debug\net6.0\ref\05_03_AplicandoOEncapsulamento.dll

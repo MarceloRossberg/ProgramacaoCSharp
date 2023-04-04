@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\bin\Debug\net6.0\04_05_MetodosEstaticos.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\bin\Debug\net6.0\04_05_MetodosEstaticos.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\bin\Debug\net6.0\04_05_MetodosEstaticos.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\bin\Debug\net6.0\04_05_MetodosEstaticos.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\bin\Debug\net6.0\04_05_MetodosEstaticos.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\04_05_MetodosEstaticos.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\04_05_MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\04_05_MetodosEstaticos.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\04_05_MetodosEstaticos.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\04_05_MetodosEstaticos.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\04_05_MetodosEstaticos.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\refint\04_05_MetodosEstaticos.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\04_05_MetodosEstaticos.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\04_05_MetodosEstaticos.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_05_MetodosEstaticos\obj\Debug\net6.0\ref\04_05_MetodosEstaticos.dll

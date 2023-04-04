@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\bin\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\bin\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\bin\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\bin\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\bin\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\refint\06_01_02_DefinindoHerencaEntreClasses.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\06_01_02_DefinindoHerencaEntreClasses.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\06_01_02_DefinindoHerencaEntreClasses\obj\Debug\net6.0\ref\06_01_02_DefinindoHerencaEntreClasses.dll

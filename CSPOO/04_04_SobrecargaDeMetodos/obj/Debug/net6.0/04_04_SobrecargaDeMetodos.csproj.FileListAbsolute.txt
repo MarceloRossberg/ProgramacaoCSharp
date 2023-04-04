@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\bin\Debug\net6.0\04_04_SobrecargaDeMetodos.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\bin\Debug\net6.0\04_04_SobrecargaDeMetodos.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\bin\Debug\net6.0\04_04_SobrecargaDeMetodos.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\bin\Debug\net6.0\04_04_SobrecargaDeMetodos.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\bin\Debug\net6.0\04_04_SobrecargaDeMetodos.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\04_04_SobrecargaDeMetodos.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\04_04_SobrecargaDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\04_04_SobrecargaDeMetodos.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\04_04_SobrecargaDeMetodos.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\04_04_SobrecargaDeMetodos.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\04_04_SobrecargaDeMetodos.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\refint\04_04_SobrecargaDeMetodos.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\04_04_SobrecargaDeMetodos.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\04_04_SobrecargaDeMetodos.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_04_SobrecargaDeMetodos\obj\Debug\net6.0\ref\04_04_SobrecargaDeMetodos.dll

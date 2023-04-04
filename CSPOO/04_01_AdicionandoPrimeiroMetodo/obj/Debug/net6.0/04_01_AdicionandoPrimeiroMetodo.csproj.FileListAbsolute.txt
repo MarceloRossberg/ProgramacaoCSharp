@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\bin\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\bin\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\bin\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\bin\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\bin\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\refint\04_01_AdicionandoPrimeiroMetodo.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\04_01_AdicionandoPrimeiroMetodo.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_01_AdicionandoPrimeiroMetodo\obj\Debug\net6.0\ref\04_01_AdicionandoPrimeiroMetodo.dll

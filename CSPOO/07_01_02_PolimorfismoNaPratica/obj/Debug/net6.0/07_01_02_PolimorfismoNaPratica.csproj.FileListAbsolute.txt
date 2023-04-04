@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\bin\Debug\net6.0\07_01_02_PolimorfismoNaPratica.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\bin\Debug\net6.0\07_01_02_PolimorfismoNaPratica.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\bin\Debug\net6.0\07_01_02_PolimorfismoNaPratica.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\bin\Debug\net6.0\07_01_02_PolimorfismoNaPratica.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\bin\Debug\net6.0\07_01_02_PolimorfismoNaPratica.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\07_01_02_PolimorfismoNaPratica.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\07_01_02_PolimorfismoNaPratica.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\07_01_02_PolimorfismoNaPratica.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\07_01_02_PolimorfismoNaPratica.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\07_01_02_PolimorfismoNaPratica.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\07_01_02_PolimorfismoNaPratica.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\refint\07_01_02_PolimorfismoNaPratica.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\07_01_02_PolimorfismoNaPratica.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\07_01_02_PolimorfismoNaPratica.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\07_01_02_PolimorfismoNaPratica\obj\Debug\net6.0\ref\07_01_02_PolimorfismoNaPratica.dll

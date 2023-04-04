@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\bin\Debug\net6.0\08_03_ImplementandoUmaInterface.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\bin\Debug\net6.0\08_03_ImplementandoUmaInterface.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\bin\Debug\net6.0\08_03_ImplementandoUmaInterface.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\bin\Debug\net6.0\08_03_ImplementandoUmaInterface.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\bin\Debug\net6.0\08_03_ImplementandoUmaInterface.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\08_03_ImplementandoUmaInterface.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\08_03_ImplementandoUmaInterface.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\08_03_ImplementandoUmaInterface.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\08_03_ImplementandoUmaInterface.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\08_03_ImplementandoUmaInterface.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\08_03_ImplementandoUmaInterface.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\refint\08_03_ImplementandoUmaInterface.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\08_03_ImplementandoUmaInterface.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\08_03_ImplementandoUmaInterface.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_03_ImplementandoUmaInterface\obj\Debug\net6.0\ref\08_03_ImplementandoUmaInterface.dll

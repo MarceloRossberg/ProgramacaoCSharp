@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\bin\Debug\net6.0\04_03_MetodosComRetorno.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\bin\Debug\net6.0\04_03_MetodosComRetorno.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\bin\Debug\net6.0\04_03_MetodosComRetorno.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\bin\Debug\net6.0\04_03_MetodosComRetorno.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\bin\Debug\net6.0\04_03_MetodosComRetorno.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\04_03_MetodosComRetorno.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\04_03_MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\04_03_MetodosComRetorno.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\04_03_MetodosComRetorno.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\04_03_MetodosComRetorno.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\04_03_MetodosComRetorno.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\refint\04_03_MetodosComRetorno.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\04_03_MetodosComRetorno.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\04_03_MetodosComRetorno.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_03_MetodosComRetorno\obj\Debug\net6.0\ref\04_03_MetodosComRetorno.dll

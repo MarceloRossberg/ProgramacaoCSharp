@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\bin\Debug\net6.0\08_04_PolimorfismoComInterfaces.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\bin\Debug\net6.0\08_04_PolimorfismoComInterfaces.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\bin\Debug\net6.0\08_04_PolimorfismoComInterfaces.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\bin\Debug\net6.0\08_04_PolimorfismoComInterfaces.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\bin\Debug\net6.0\08_04_PolimorfismoComInterfaces.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\08_04_PolimorfismoComInterfaces.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\08_04_PolimorfismoComInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\08_04_PolimorfismoComInterfaces.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\08_04_PolimorfismoComInterfaces.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\08_04_PolimorfismoComInterfaces.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\08_04_PolimorfismoComInterfaces.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\refint\08_04_PolimorfismoComInterfaces.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\08_04_PolimorfismoComInterfaces.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\08_04_PolimorfismoComInterfaces.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\08_04_PolimorfismoComInterfaces\obj\Debug\net6.0\ref\08_04_PolimorfismoComInterfaces.dll

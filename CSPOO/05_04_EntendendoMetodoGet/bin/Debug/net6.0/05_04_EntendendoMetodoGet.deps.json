@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "05_04_EntendendoMetodoGet/1.0.0": {
+        "runtime": {
+          "05_04_EntendendoMetodoGet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05_04_EntendendoMetodoGet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

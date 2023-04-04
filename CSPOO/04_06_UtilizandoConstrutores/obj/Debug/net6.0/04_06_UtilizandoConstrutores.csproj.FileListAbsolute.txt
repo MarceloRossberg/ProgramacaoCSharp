@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\bin\Debug\net6.0\04_06_UtilizandoConstrutores.exe
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\bin\Debug\net6.0\04_06_UtilizandoConstrutores.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\bin\Debug\net6.0\04_06_UtilizandoConstrutores.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\bin\Debug\net6.0\04_06_UtilizandoConstrutores.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\bin\Debug\net6.0\04_06_UtilizandoConstrutores.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\04_06_UtilizandoConstrutores.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\04_06_UtilizandoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\04_06_UtilizandoConstrutores.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\04_06_UtilizandoConstrutores.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\04_06_UtilizandoConstrutores.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\04_06_UtilizandoConstrutores.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\refint\04_06_UtilizandoConstrutores.dll
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\04_06_UtilizandoConstrutores.pdb
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\04_06_UtilizandoConstrutores.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSPOO\04_06_UtilizandoConstrutores\obj\Debug\net6.0\ref\04_06_UtilizandoConstrutores.dll
