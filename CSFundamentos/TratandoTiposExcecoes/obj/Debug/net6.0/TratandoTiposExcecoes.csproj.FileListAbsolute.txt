@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\bin\Debug\net6.0\TratandoTiposExcecoes.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\bin\Debug\net6.0\TratandoTiposExcecoes.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\bin\Debug\net6.0\TratandoTiposExcecoes.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\bin\Debug\net6.0\TratandoTiposExcecoes.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\bin\Debug\net6.0\TratandoTiposExcecoes.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\TratandoTiposExcecoes.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\TratandoTiposExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\TratandoTiposExcecoes.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\TratandoTiposExcecoes.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\TratandoTiposExcecoes.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\TratandoTiposExcecoes.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\refint\TratandoTiposExcecoes.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\TratandoTiposExcecoes.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\TratandoTiposExcecoes.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TratandoTiposExcecoes\obj\Debug\net6.0\ref\TratandoTiposExcecoes.dll

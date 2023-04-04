@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\bin\Debug\net6.0\EntradaSaida.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\bin\Debug\net6.0\EntradaSaida.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\bin\Debug\net6.0\EntradaSaida.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\bin\Debug\net6.0\EntradaSaida.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\bin\Debug\net6.0\EntradaSaida.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\EntradaSaida.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\EntradaSaida.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\EntradaSaida.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\EntradaSaida.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\EntradaSaida.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\EntradaSaida.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\refint\EntradaSaida.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\EntradaSaida.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\EntradaSaida.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EntradaSaida\obj\Debug\net6.0\ref\EntradaSaida.dll

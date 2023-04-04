@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\bin\Debug\net6.0\BlocoTryFinally.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\bin\Debug\net6.0\BlocoTryFinally.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\bin\Debug\net6.0\BlocoTryFinally.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\bin\Debug\net6.0\BlocoTryFinally.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\bin\Debug\net6.0\BlocoTryFinally.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\BlocoTryFinally.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\BlocoTryFinally.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\BlocoTryFinally.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\BlocoTryFinally.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\BlocoTryFinally.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\BlocoTryFinally.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\refint\BlocoTryFinally.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\BlocoTryFinally.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\BlocoTryFinally.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryFinally\obj\Debug\net6.0\ref\BlocoTryFinally.dll

@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\bin\Debug\net6.0\TrabalhandoComClasses.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\bin\Debug\net6.0\TrabalhandoComClasses.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\bin\Debug\net6.0\TrabalhandoComClasses.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\bin\Debug\net6.0\TrabalhandoComClasses.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\bin\Debug\net6.0\TrabalhandoComClasses.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\TrabalhandoComClasses.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\TrabalhandoComClasses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\TrabalhandoComClasses.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\TrabalhandoComClasses.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\TrabalhandoComClasses.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\TrabalhandoComClasses.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\refint\TrabalhandoComClasses.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\TrabalhandoComClasses.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\TrabalhandoComClasses.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComClasses\obj\Debug\net6.0\ref\TrabalhandoComClasses.dll

@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\bin\Debug\net6.0\OperadoresUnarios.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\bin\Debug\net6.0\OperadoresUnarios.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\bin\Debug\net6.0\OperadoresUnarios.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\bin\Debug\net6.0\OperadoresUnarios.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\bin\Debug\net6.0\OperadoresUnarios.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\OperadoresUnarios.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\OperadoresUnarios.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\OperadoresUnarios.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\OperadoresUnarios.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\OperadoresUnarios.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\OperadoresUnarios.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\refint\OperadoresUnarios.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\OperadoresUnarios.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\OperadoresUnarios.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresUnarios\obj\Debug\net6.0\ref\OperadoresUnarios.dll

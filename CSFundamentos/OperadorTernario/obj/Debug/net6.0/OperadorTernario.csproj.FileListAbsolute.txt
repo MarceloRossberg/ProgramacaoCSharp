@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\bin\Debug\net6.0\OperadorTernario.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\bin\Debug\net6.0\OperadorTernario.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\bin\Debug\net6.0\OperadorTernario.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\bin\Debug\net6.0\OperadorTernario.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\bin\Debug\net6.0\OperadorTernario.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\OperadorTernario.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\OperadorTernario.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\OperadorTernario.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\OperadorTernario.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\OperadorTernario.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\refint\OperadorTernario.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\OperadorTernario.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\OperadorTernario.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadorTernario\obj\Debug\net6.0\ref\OperadorTernario.dll

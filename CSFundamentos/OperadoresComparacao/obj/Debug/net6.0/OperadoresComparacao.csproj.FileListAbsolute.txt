@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\bin\Debug\net6.0\OperadoresComparacao.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\bin\Debug\net6.0\OperadoresComparacao.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\bin\Debug\net6.0\OperadoresComparacao.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\bin\Debug\net6.0\OperadoresComparacao.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\bin\Debug\net6.0\OperadoresComparacao.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\OperadoresComparacao.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\OperadoresComparacao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\OperadoresComparacao.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\OperadoresComparacao.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\OperadoresComparacao.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\OperadoresComparacao.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\refint\OperadoresComparacao.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\OperadoresComparacao.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\OperadoresComparacao.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresComparacao\obj\Debug\net6.0\ref\OperadoresComparacao.dll

@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\bin\Debug\net6.0\DepurarCodigo.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\bin\Debug\net6.0\DepurarCodigo.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\bin\Debug\net6.0\DepurarCodigo.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\bin\Debug\net6.0\DepurarCodigo.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\bin\Debug\net6.0\DepurarCodigo.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\DepurarCodigo.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\DepurarCodigo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\DepurarCodigo.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\DepurarCodigo.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\DepurarCodigo.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\DepurarCodigo.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\refint\DepurarCodigo.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\DepurarCodigo.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\DepurarCodigo.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DepurarCodigo\obj\Debug\net6.0\ref\DepurarCodigo.dll

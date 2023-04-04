@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\bin\Debug\net6.0\PalavrasBreakEContinue.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\bin\Debug\net6.0\PalavrasBreakEContinue.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\bin\Debug\net6.0\PalavrasBreakEContinue.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\bin\Debug\net6.0\PalavrasBreakEContinue.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\bin\Debug\net6.0\PalavrasBreakEContinue.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\PalavrasBreakEContinue.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\PalavrasBreakEContinue.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\PalavrasBreakEContinue.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\PalavrasBreakEContinue.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\PalavrasBreakEContinue.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\PalavrasBreakEContinue.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\refint\PalavrasBreakEContinue.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\PalavrasBreakEContinue.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\PalavrasBreakEContinue.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\PalavrasBreakEContinue\obj\Debug\net6.0\ref\PalavrasBreakEContinue.dll

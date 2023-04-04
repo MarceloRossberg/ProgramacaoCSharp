@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\bin\Debug\net6.0\EstruturaRepeticaoWhile.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\bin\Debug\net6.0\EstruturaRepeticaoWhile.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\bin\Debug\net6.0\EstruturaRepeticaoWhile.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\bin\Debug\net6.0\EstruturaRepeticaoWhile.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\bin\Debug\net6.0\EstruturaRepeticaoWhile.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\EstruturaRepeticaoWhile.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\EstruturaRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\EstruturaRepeticaoWhile.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\EstruturaRepeticaoWhile.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\EstruturaRepeticaoWhile.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\EstruturaRepeticaoWhile.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\refint\EstruturaRepeticaoWhile.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\EstruturaRepeticaoWhile.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\EstruturaRepeticaoWhile.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaRepeticaoWhile\obj\Debug\net6.0\ref\EstruturaRepeticaoWhile.dll

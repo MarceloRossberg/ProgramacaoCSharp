@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\bin\Debug\net6.0\TrabalhandoComMetodos.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\bin\Debug\net6.0\TrabalhandoComMetodos.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\bin\Debug\net6.0\TrabalhandoComMetodos.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\bin\Debug\net6.0\TrabalhandoComMetodos.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\bin\Debug\net6.0\TrabalhandoComMetodos.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\TrabalhandoComMetodos.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\TrabalhandoComMetodos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\TrabalhandoComMetodos.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\TrabalhandoComMetodos.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\TrabalhandoComMetodos.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\TrabalhandoComMetodos.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\refint\TrabalhandoComMetodos.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\TrabalhandoComMetodos.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\TrabalhandoComMetodos.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\TrabalhandoComMetodos\obj\Debug\net6.0\ref\TrabalhandoComMetodos.dll

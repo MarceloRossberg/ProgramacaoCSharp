@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\refint\DeclaracaoVariaveis.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\DeclaracaoVariaveis\obj\Debug\net6.0\ref\DeclaracaoVariaveis.dll

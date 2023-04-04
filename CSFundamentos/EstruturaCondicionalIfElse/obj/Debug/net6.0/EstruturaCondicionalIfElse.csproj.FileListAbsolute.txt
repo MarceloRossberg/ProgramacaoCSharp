@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\bin\Debug\net6.0\EstruturaCondicionalIfElse.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\bin\Debug\net6.0\EstruturaCondicionalIfElse.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\bin\Debug\net6.0\EstruturaCondicionalIfElse.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\bin\Debug\net6.0\EstruturaCondicionalIfElse.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\bin\Debug\net6.0\EstruturaCondicionalIfElse.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\EstruturaCondicionalIfElse.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\EstruturaCondicionalIfElse.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\EstruturaCondicionalIfElse.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\EstruturaCondicionalIfElse.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\EstruturaCondicionalIfElse.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\EstruturaCondicionalIfElse.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\refint\EstruturaCondicionalIfElse.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\EstruturaCondicionalIfElse.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\EstruturaCondicionalIfElse.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalIfElse\obj\Debug\net6.0\ref\EstruturaCondicionalIfElse.dll

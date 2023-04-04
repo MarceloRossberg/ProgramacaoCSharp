@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\bin\Debug\net6.0\EstruturaCondicionalSwitch.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\bin\Debug\net6.0\EstruturaCondicionalSwitch.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\bin\Debug\net6.0\EstruturaCondicionalSwitch.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\bin\Debug\net6.0\EstruturaCondicionalSwitch.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\bin\Debug\net6.0\EstruturaCondicionalSwitch.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\EstruturaCondicionalSwitch.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\EstruturaCondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\EstruturaCondicionalSwitch.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\EstruturaCondicionalSwitch.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\EstruturaCondicionalSwitch.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\EstruturaCondicionalSwitch.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\refint\EstruturaCondicionalSwitch.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\EstruturaCondicionalSwitch.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\EstruturaCondicionalSwitch.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\EstruturaCondicionalSwitch\obj\Debug\net6.0\ref\EstruturaCondicionalSwitch.dll

@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\bin\Debug\net6.0\ConversoesTipos.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\bin\Debug\net6.0\ConversoesTipos.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\bin\Debug\net6.0\ConversoesTipos.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\bin\Debug\net6.0\ConversoesTipos.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\bin\Debug\net6.0\ConversoesTipos.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ConversoesTipos.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ConversoesTipos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ConversoesTipos.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ConversoesTipos.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ConversoesTipos.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ConversoesTipos.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\refint\ConversoesTipos.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ConversoesTipos.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ConversoesTipos.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\ConversoesTipos\obj\Debug\net6.0\ref\ConversoesTipos.dll

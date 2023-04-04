@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\refint\OperadoresAtribuicao.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\OperadoresAtribuicao\obj\Debug\net6.0\ref\OperadoresAtribuicao.dll

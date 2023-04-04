@@ -1,0 +1,15 @@
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\bin\Debug\net6.0\BlocoTryCatch.exe
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\bin\Debug\net6.0\BlocoTryCatch.deps.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\bin\Debug\net6.0\BlocoTryCatch.runtimeconfig.json
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\bin\Debug\net6.0\BlocoTryCatch.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\bin\Debug\net6.0\BlocoTryCatch.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\BlocoTryCatch.csproj.AssemblyReference.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\BlocoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\BlocoTryCatch.AssemblyInfoInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\BlocoTryCatch.AssemblyInfo.cs
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\BlocoTryCatch.csproj.CoreCompileInputs.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\BlocoTryCatch.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\refint\BlocoTryCatch.dll
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\BlocoTryCatch.pdb
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\BlocoTryCatch.genruntimeconfig.cache
+F:\Treinaweb\DesenvolvedorCS\CSFundamentos\BlocoTryCatch\obj\Debug\net6.0\ref\BlocoTryCatch.dll
